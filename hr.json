@@ -13,7 +13,7 @@
 			"section-behavior": "Ponašanje",
 			"section-display": "Prikaz",
 			"option-spellcheck": "Provjera pravopisa",
-			"option-spellcheck-description": "Uključuje spell checker. Currently only works for English (US).",
+			"option-spellcheck-description": "Uključuje provjeru pravopisa. Trenutno radi samo za engleski (SAD).",
 			"spellcheck-languages": "Spellcheck jezici",
 			"spellcheck-languages-description": "Odaberi jezike koje će spellchecker koristiti.",
 			"spellcheck-languages-mac-description": "The native spellchecker will automatically detect the language being used for you on macOS.",
