@@ -4,8 +4,8 @@
 		"plugin": "Dodatak",
 		"builtin-plugins": "Trenutni dodaci",
 		"plugin-options": "Opcije dodatka",
-		"folder-path-example-placeholder": "Primjer: folder1/folder 2",
-		"file-path-example-placeholder": "Primjer: folder/bilješka",
+		"folder-path-example-placeholder": "Primjer: mapa 1/mapa 2",
+		"file-path-example-placeholder": "Primjer: mapa/bilješka",
 		"msg-restart-required": "Mijenjanje ove opcije zahtjeva ponovo pokretanje, kako bi bila primijenjena.",
 		"editor": {
 			"name": "Editor",
